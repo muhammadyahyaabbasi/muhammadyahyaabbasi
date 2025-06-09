@@ -17,9 +17,6 @@
   <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
     </td>
- 
-</tr>
-<tr>
     <td align='center' width="200">
         <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" width="80">
     </td>
@@ -27,19 +24,11 @@
  <td align='center' width="200">
        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="100">
     </td>
- 
-</tr>
-<tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png" width="80">
     </td>
-
-  
 </tr>
- 
- 
 
-    
 </table>
 
   <p align="center">
